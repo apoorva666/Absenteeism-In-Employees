@@ -15,10 +15,10 @@ Features in the dataset are:    <br />
  9   Education                 
  10  Children                  
  11  Pets                      
- 12  Absenteeism Time in Days  
+ 12  Absenteeism Time in Days  <br />
  
- Algorithms used:
- 1 Logistic Regression
+ Algorithms used:     <br />
+ 1 Logistic Regression  <br />
  2 Naive Bayes
  3 Support Vector Machines
  4 Decision Tree
