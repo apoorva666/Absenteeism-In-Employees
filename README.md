@@ -4,9 +4,9 @@ A Machine Learning model to predict if an employee is going to be excessively ab
 The dataset contains the absenteeism records & the stated reasons of 700 employees over a period of 1 year. Our Machine Learning model has analyzed the relationship between all the features to predict if an employee is going to be absent for more than 3 days in a month or not, which is considered as a benchmark for excessive absenteeism.
 
 Features in the dataset are:
- 1   ID                         
- 2   Reason for Absence          
- 3   Date                       
+ 1   ID                         <br />
+ 2   Reason for Absence          <br />
+ 3   Date                       <br />
  4   Transportation Expense      
  5   Distance to Work          
  6   Age                       
@@ -26,7 +26,7 @@ Features in the dataset are:
  6 Decision Tree with post pruning
  7 Random Forest
  8 K - Nearest Neighbors
- 9 Ada Boost	0.728571
+ 9 Ada Boost	
  10	XG Boost
  
  Procedure:
