@@ -29,7 +29,7 @@ Features in the dataset are:    <br />
  9 Ada Boost	           <br />
  10	XG Boost           <br />
  
- Procedure:        <br />
+ *Procedure:        <br />
  1 Loading the dataset
  
  2 Preprocessing the data - Checking for missing values, outliers, checking if the dataset is balanced, removing unnecessary features, checking the presence of 
