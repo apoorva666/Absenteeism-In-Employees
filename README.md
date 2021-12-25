@@ -19,17 +19,17 @@ Features in the dataset are:    <br />
  
  Algorithms used:     <br />
  1 Logistic Regression  <br />
- 2 Naive Bayes
- 3 Support Vector Machines
- 4 Decision Tree
- 5 Decision Tree with Pre Pruning
- 6 Decision Tree with post pruning
- 7 Random Forest
- 8 K - Nearest Neighbors
- 9 Ada Boost	
- 10	XG Boost
+ 2 Naive Bayes            <br />
+ 3 Support Vector Machines  <br />
+ 4 Decision Tree                <br />
+ 5 Decision Tree with Pre Pruning  <br />
+ 6 Decision Tree with post pruning <br />
+ 7 Random Forest               <br />
+ 8 K - Nearest Neighbors      <br />
+ 9 Ada Boost	           <br />
+ 10	XG Boost           <br />
  
- Procedure:
+ Procedure:        <br />
  1 Loading the dataset
  
  2 Preprocessing the data - Checking for missing values, outliers, checking if the dataset is balanced, removing unnecessary features, checking the presence of 
