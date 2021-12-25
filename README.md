@@ -1,9 +1,9 @@
 # Absenteeism-In-Employees
-A Machine Learning model to predict if an employee is going to be excessively absent.
+* A Machine Learning model to predict if an employee is going to be excessively absent.
 
-The dataset contains the absenteeism records & the stated reasons of 700 employees over a period of 1 year. Our Machine Learning model has analyzed the relationship between all the features to predict if an employee is going to be absent for more than 3 days in a month or not, which is considered as a benchmark for excessive absenteeism.
+* The dataset contains the absenteeism records & the stated reasons of 700 employees over a period of 1 year. Our Machine Learning model has analyzed the relationship between   all the features to predict if an employee is going to be absent for more than 3 days in a month or not, which is considered as a benchmark for excessive absenteeism.
 
-Features in the dataset are:    <br />
+* Features in the dataset are:    <br />
  1   ID                         <br />
  2   Reason for Absence          <br />
  3   Date                       <br />
@@ -17,7 +17,7 @@ Features in the dataset are:    <br />
  11  Pets                      
  12  Absenteeism Time in Days  <br />
  
- Algorithms used:     <br />
+ * Algorithms used:     <br />
  1 Logistic Regression  <br />
  2 Naive Bayes            <br />
  3 Support Vector Machines  <br />
@@ -30,12 +30,12 @@ Features in the dataset are:    <br />
  10	XG Boost           <br />
  
  * Procedure:        <br />
- 1 Loading the dataset
+   1 Loading the dataset
  
- 2 Preprocessing the data - Checking for missing values, outliers, checking if the dataset is balanced, removing unnecessary features, checking the presence of 
+   2 Preprocessing the data - Checking for missing values, outliers, checking if the dataset is balanced, removing unnecessary features, checking the presence of 
    multicollinearity, converting the data into a more understandable format, & standardization of the data.
    
- 3 Splitting the dataset for training & testing 
+   3 Splitting the dataset for training & testing 
  
  
  
