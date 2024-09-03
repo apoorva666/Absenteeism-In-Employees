@@ -3,7 +3,7 @@
 ![absenteeism_h](https://user-images.githubusercontent.com/59203913/147377899-44ec27ac-0c43-4528-8d89-46cc2adc39c8.jpg)
 
 
-* A Machine Learning model to predict if an employee is going to be excessively absent.
+* A Machine Learning model to predict if an employee is going to be excessively absent from work.
 
 * The dataset contains the absenteeism records & the stated reasons of 700 employees over a period of 1 year. Our Machine Learning model has analyzed the relationship between   all the features to predict if an employee is going to be absent for more than 3 days in a month or not, which is considered as a benchmark for excessive absenteeism.
 
